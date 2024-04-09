@@ -1,0 +1,14 @@
+/home/inheim/RiderProjects/Solution3/ConsoleApp5/bin/Debug/net8.0/ConsoleApp5
+/home/inheim/RiderProjects/Solution3/ConsoleApp5/bin/Debug/net8.0/ConsoleApp5.deps.json
+/home/inheim/RiderProjects/Solution3/ConsoleApp5/bin/Debug/net8.0/ConsoleApp5.runtimeconfig.json
+/home/inheim/RiderProjects/Solution3/ConsoleApp5/bin/Debug/net8.0/ConsoleApp5.dll
+/home/inheim/RiderProjects/Solution3/ConsoleApp5/bin/Debug/net8.0/ConsoleApp5.pdb
+/home/inheim/RiderProjects/Solution3/ConsoleApp5/obj/Debug/net8.0/ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+/home/inheim/RiderProjects/Solution3/ConsoleApp5/obj/Debug/net8.0/ConsoleApp5.AssemblyInfoInputs.cache
+/home/inheim/RiderProjects/Solution3/ConsoleApp5/obj/Debug/net8.0/ConsoleApp5.AssemblyInfo.cs
+/home/inheim/RiderProjects/Solution3/ConsoleApp5/obj/Debug/net8.0/ConsoleApp5.csproj.CoreCompileInputs.cache
+/home/inheim/RiderProjects/Solution3/ConsoleApp5/obj/Debug/net8.0/ConsoleApp5.dll
+/home/inheim/RiderProjects/Solution3/ConsoleApp5/obj/Debug/net8.0/refint/ConsoleApp5.dll
+/home/inheim/RiderProjects/Solution3/ConsoleApp5/obj/Debug/net8.0/ConsoleApp5.pdb
+/home/inheim/RiderProjects/Solution3/ConsoleApp5/obj/Debug/net8.0/ConsoleApp5.genruntimeconfig.cache
+/home/inheim/RiderProjects/Solution3/ConsoleApp5/obj/Debug/net8.0/ref/ConsoleApp5.dll
