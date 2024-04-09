@@ -1,0 +1,6 @@
+/home/inheim/RiderProjects/Solution1/ConsoleApplication1/bin/Debug/ConsoleApplication1.exe
+/home/inheim/RiderProjects/Solution1/ConsoleApplication1/bin/Debug/ConsoleApplication1.pdb
+/home/inheim/RiderProjects/Solution1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.AssemblyReference.cache
+/home/inheim/RiderProjects/Solution1/ConsoleApplication1/obj/Debug/ConsoleApplication1.csproj.CoreCompileInputs.cache
+/home/inheim/RiderProjects/Solution1/ConsoleApplication1/obj/Debug/ConsoleApplication1.exe
+/home/inheim/RiderProjects/Solution1/ConsoleApplication1/obj/Debug/ConsoleApplication1.pdb
