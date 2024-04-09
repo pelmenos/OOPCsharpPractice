@@ -1,0 +1,5 @@
+/home/inheim/RiderProjects/Solution5/GarageConsoleApp/MyProject/obj/Debug/net8.0/MyProject.csproj.AssemblyReference.cache
+/home/inheim/RiderProjects/Solution5/GarageConsoleApp/MyProject/obj/Debug/net8.0/MyProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/inheim/RiderProjects/Solution5/GarageConsoleApp/MyProject/obj/Debug/net8.0/MyProject.AssemblyInfoInputs.cache
+/home/inheim/RiderProjects/Solution5/GarageConsoleApp/MyProject/obj/Debug/net8.0/MyProject.AssemblyInfo.cs
+/home/inheim/RiderProjects/Solution5/GarageConsoleApp/MyProject/obj/Debug/net8.0/MyProject.csproj.CoreCompileInputs.cache

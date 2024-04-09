@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YLllFX+fadzbpKqWtHUia/6WowT+EsjfVwrG/JXd7CfjdlY7kmTHYJEbVaOQEzpCFE1uXX1LWU1+KOuTaEWUyw==",
+  "success": true,
+  "projectFilePath": "/home/inheim/RiderProjects/Solution5/Garage/Garage.csproj",
+  "expectedPackageFiles": [
+    "/home/inheim/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/home/inheim/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/home/inheim/.nuget/packages/npgsql/8.0.2/npgsql.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
